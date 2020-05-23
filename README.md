@@ -1,4 +1,5 @@
 # Housing_Prices_HandsonML
+## To be used as template for Regression analysis and modelling
 Exploratory working exercise on the chapter 2 of the book Hands on ML
 Steps :
 1. Stratified Sampling
